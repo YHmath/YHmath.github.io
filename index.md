@@ -4,10 +4,12 @@ title: Yohei Hada
 
 # Yohei Hada
 
-Master’s student in Mathematics, Kyoto University.
+Master course student in Mathematics, Kyoto University.
 
 ## Research Interests
-Algebraic geometry, complex geometry, and related topics.
+My research interests lie in algebraic geometry, complex geometry, and related topics.
+In particular, I am interested in the stability theory of coherent sheaves and the existence of special metrics.
+
 
 
 ## Contact
